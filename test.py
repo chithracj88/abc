@@ -7,6 +7,6 @@
 # num=int(input("Enter the radius"))
 # area=3.14*num*num
 # print("area of the circle",area)
-print ("hello world")
+print ("hello ")
 print("ha"*10)
 print(1000*10)
